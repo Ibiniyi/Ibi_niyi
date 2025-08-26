@@ -25,13 +25,16 @@ I'm a passionate **Backend Developer (Python & PHP)** with experience in **Pytho
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Airbnb Database Design](https://github.com/ibiniyitimothy/alx-airbnb-database)
+Airbnb Database Design is a relational database schema for an Airbnb-like platform built with MySQL and SQL DDL statements. This project demonstrates my ability to design ER diagrams, normalize databases, and implement scalable backend data structures. You can check out the repository here
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [Credo Payment Gateway Integration](https://github.com/ibiniyitimothy/credo-payment-wordpress)
+
+Credo Payment Gateway Integration is a WordPress plugin setup that integrates the Credo Payment API with WooCommerce built with PHP, WordPress, and API integration. This project showcases my skills in backend development, API consumption, and e-commerce solutions. You can check out the repository
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
@@ -40,7 +43,7 @@ I'm a passionate **Backend Developer (Python & PHP)** with experience in **Pytho
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[HTTPS://WWW.LinkedIn/in/ibiniyi]**(your_linkedin_profile_link)
+- **ibi_niyi**(your_twitter_profile_link)
 
 
