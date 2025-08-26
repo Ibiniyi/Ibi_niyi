@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ibiniyi Timothy 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Backend Developer (Python & PHP)** with experience in **Python (Flask, Django), PHP (Laravel), WordPress, and SQL databases.**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **RESTful API design, advanced backend architecture, and cloud deployment (AWS, Docker)**
+- 🔭 Working on: **an Airbnb-like database design project (alx-airbnb-database) and integrating Credo Payment API into WordPress**
+- 🌍 Languages: **Python, PHP, SQL, JavaScript (basic), HTML/CSS, English, Yoruba**
+- 📫 How to reach me: **timothyniyi@gmail.com**
+- ⚡ Fun fact: **I enjoy debugging code—it feels like solving puzzles!**
 
 ## My Skills 🧠
 
